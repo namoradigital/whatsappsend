@@ -16,7 +16,7 @@ This is a Python and Selenium-based automation bot designed to send WhatsApp mes
 ✔ Easily configurable without programming expertise
 
 # How It Works
-## sudo apt update ## upgrade -y
+## sudo apt update && upgrade -y
 ## git clone https://github.com/namoradigital/whatsappsend.git
 ## cd whatsappsend
 ## python3 -m venv myenv
