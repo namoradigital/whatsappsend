@@ -1,8 +1,9 @@
 WhatsApp Bulk Message Sender (Python Automation)
+
 # Description
 This is a Python and Selenium-based automation bot designed to send WhatsApp messages to multiple numbers automatically. The application retrieves phone numbers from a CSV file, allowing users to send messages in bulk without manually entering each contact.
 
-This tool is ideal for:
+## This tool is ideal for:
 ✅ Business announcements and promotions
 ✅ Notifications for customers or community members
 ✅ Reminders or automated messages
@@ -16,25 +17,15 @@ This tool is ideal for:
 
 # How It Works
 Reads a list of numbers from a CSV file
-
 Opens WhatsApp Web automatically using Selenium
-
 Sends messages to each number provided by the user
-
 Waits 10 seconds between messages to prevent spam detection
-
 Closes WhatsApp Web automatically once all messages are sent
 
 # How to Use
 Prepare a CSV file with the list of numbers to send messages to. The format should be:
-
-source myenv/bin/activate
-
-
 Scan the QR Code for WhatsApp Web in the browser window.
-
 Enter the message you want to send.
-
 The script will automatically send messages to all numbers in the CSV file.
 
 #Technologies Used
