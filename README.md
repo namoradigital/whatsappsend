@@ -21,7 +21,7 @@ This is a Python and Selenium-based automation bot designed to send WhatsApp mes
 ## cd whatsappsend
 ## python3 -m venv myenv
 ## source myenv/bin/activate
-## python script.py
+## python whatsapp.py
 
 Reads a list of numbers from a CSV file
 Opens WhatsApp Web automatically using Selenium
