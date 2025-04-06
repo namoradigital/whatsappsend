@@ -22,6 +22,7 @@ Ketikkan di teriminal
 * cd whatsappsend
 * python3 -m venv myenv
 * source myenv/bin/activate
+* sudo install pywhatkit
 * python whatsapp.py
 
 Reads a list of numbers from a CSV file
